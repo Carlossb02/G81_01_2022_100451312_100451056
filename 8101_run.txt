@@ -1,3 +1,0 @@
-1) Abrir la carpeta UC3Bank en PyCharm
-2) Actualizar la librería criptography.io a la última versión, ya que no funcionará con versiones antiguas
-3) Ejecutar el archivo main.py
