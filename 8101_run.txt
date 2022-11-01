@@ -1,0 +1,4 @@
+1) Abrir la carpeta UC3Bank en PyCharm
+2) Actualizar la librería cryptography.io a la última versión, ya que no funcionará con versiones antiguas
+3) Instalar la librería 'exrex' (pip install exrex)
+3) Ejecutar el archivo main.py
